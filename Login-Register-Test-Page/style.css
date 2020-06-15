@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    background-color: brown;
+    color: rgb(236, 218, 193);
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    padding: 0.5cm;
+}
+
+form{
+    margin-top: 1cm;
+    text-align: center;
+}
+
+input{
+    width: 6cm;
+    height: 0.5cm;
+    margin: 0.2cm;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+select{
+    width: 6.4cm;
+    height: 0.55cm;
+    margin: 0.2cm;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+button{
+    margin-top: 0.5cm;
+    width: 100px;
+    border-radius: 10px;
+    background-color: bisque;
+}
+
+body{
+    background-color: #115658;
+    text-align: center;
+}
+
+.login{
+    text-align: center;
+    width: 27%;
+    height: 20px;
+    margin: auto;
+    background-color: rgb(204, 207, 28);
+    border: 2px red solid;
+    border-radius: 15px;
+    
+}
+
+.sign-up{
+    text-align: center;
+    width: 27%;
+    height: 20px;
+    margin: auto;
+    background-color: rgb(204, 207, 28);
+    border: 2px red solid;
+    border-radius: 15px;
+}
+
+
