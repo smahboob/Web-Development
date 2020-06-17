@@ -1,0 +1,110 @@
+
+body{
+    background-image: url(back.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+/*
+  .top{
+    background-color: rgb(231, 175, 154);
+    overflow: hidden;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+  li{
+    display: inline;
+    text-align: center;
+    padding-left: ;
+  }
+  */
+
+  .container {
+    margin: auto;
+    width: 500px;
+    overflow: auto;
+    padding: 3rem 2rem;
+  }
+
+  #my-form {
+    padding: 2rem;
+    background: #f8d8c2;
+    border-radius: 5px;
+
+  }
+  
+  #my-form label {
+    display: block;
+  }
+
+  #my-form input[type='text'] {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  #my-form input[type='password'] {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+
+  #my-form input[type='date'] {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border: 0;
+    background: #333;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px 0;
+  }
+
+
+
+.btn:hover {
+    background: #444;
+}
+  
+
+#below{
+    padding: 34px;
+}
+
+
+a:visited{
+  color: black
+}
+
+
+
