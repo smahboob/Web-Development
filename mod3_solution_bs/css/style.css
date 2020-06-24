@@ -1,1 +1,68 @@
+*{ 
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
 
+ul{
+    margin: 0px;
+}
+
+.navbar-nav.navbar-nav{
+    margin: 0;
+    width: 100%;
+}
+
+
+.container-fluid{
+    background-color: rgb(184, 181, 181);
+    margin: 0;
+    outline: 0;
+}
+
+.navbar-inverse.navbar-inverse{
+    background-color: rgb(184, 181, 181) ;
+    border: none;
+}
+
+.navbar-header.navbar-header h1{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.navbar-header{
+    margin: 0;
+    background: rgb(184, 181, 181);
+}
+
+.navbar-inverse.navbar-inverse .navbar-nav.navbar-nav>li>a{
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.navbar-inverse.navbar-inverse .navbar-nav.navbar-nav>li>a :hover{
+    color:blue;
+}
+
+.section{
+    margin: 20px;
+    background-color: rgb(184, 181, 181);
+    font-size: large;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.section h3{
+    text-align: center;
+    font-size: larger;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header h1{
+    margin: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
